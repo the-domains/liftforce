@@ -1,0 +1,28 @@
+name: LiftForce
+favicon: null
+layout_spectrum: 0.20285497209988534
+typography_spectrum: 0.8455411826726049
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5226934535894543
+  lightness: 0.34682142781093717
+  saturation: 0.5330904254224151
+  rhythmicContrast: 0.08681615022942424
+purpose: []
