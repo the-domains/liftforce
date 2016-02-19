@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lift smarter.]]></title>
         <description><![CDATA[Lift smarter.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/liftforce/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 22:06:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 22:09:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/liftforce/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>LiftForce</p>]]></description>
-            <link>undefined1383d07f-94af-4b12-b070-d38c5df7d941/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaf9adab-dd88-4107-be68-40df5c46a08b.png">]]></description>
+            <link>https://thegrid.ai/liftforce/1383d07f-94af-4b12-b070-d38c5df7d941/index.html</link>
             <guid isPermaLink="false">1383d07f-94af-4b12-b070-d38c5df7d941</guid>
-            <pubDate>Fri, 19 Feb 2016 21:59:02 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 22:05:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
